@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou Mateus Garona </h1>
+<h1 align="center">Olá! Eu sou Mateus Garona 👋</h1>
 
 <h3 align="center">
   Estudante de Sistemas de Informação | UEMG
@@ -41,5 +41,4 @@ Tenho interesse em tecnologia, desenvolvimento de software e soluções digitais
 
 ### 📫 Contato
 
-- GitHub: [@garonaz](https://github.com/garonaz</>
-)
+- GitHub: [@garonaz](https://github.com/garonaz)
